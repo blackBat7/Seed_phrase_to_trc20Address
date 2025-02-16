@@ -13,5 +13,6 @@
 tropy 
 multiprocessing
 
-در صورت مشکل یا متوجه نشدن به ایدی Gateparadise@ مراجعه کنید راهنمایی کنم 
+در صورت مشکل یا متوجه نشدن به ایدی Gateparadise@ در تلگرام مراجعه کنید راهنمایی کنم 
+https://t.me/Gateparadise 
 
