@@ -28,5 +28,18 @@
 ### نصب کتابخانه‌ها
 ```bash
 pip install tropy
+```
 
+### 🖥️ Installation Method on Linux:
 
+### 🚧 آموزش نصب روی لینوکس :
+### 🚦 برای اجرای بروی گوشی موبایل می توانید از pydroid3 یا termux my استفاده کنید.
+```bash
+git clone https://github.com/blackBat7/Seed_phrase_to_trc20Address
+```
+```bash
+cd Seed_phrase_to_trc20Address
+```
+```bash
+python SeedToTrxAddress.py
+```
